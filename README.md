@@ -1,6 +1,6 @@
 # BeeSocial - A social network for Human-bees :bee:
 
-## Development :woman-technologist:
+## Development :computer:
 
 ### Node Packages used
 - [x] Express 
