@@ -1,9 +1,9 @@
 # BeeSocial - A social network for Human-bees :bee:
 
-## Development :female-technologist:
+## Development :woman-technologist:
 
 ### Node Packages used
-- [x] Express
+- [x] Express 
 - [x] Mongoose
 - [x] Dotenv
 - [x] Helmet
