@@ -10,6 +10,8 @@ const authRoute = require('./routes/auth');
 // dotenv config
 dotenv.config();
 
+mongoose.set('strictQuery', true);
+
 // connect to mongodb
 mongoose.connect(process.env.MONGO_URL, { useNewUrlParser: true, useUnifiedTopology: true })
     .then(() => console.log('MongoDB connected...'))
