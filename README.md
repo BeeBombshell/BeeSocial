@@ -1,8 +1,11 @@
 # BeeSocial - A social network for Human-bees :bee:
 
+> Design under development ✨
+
 ## Development :computer:
 
 ### Node Packages used
+
 - 📦 Express - For running our server
 - 📦 Mongoose - For creating models and connecting to our MongoDB database
 - 📦 Dotenv - For storing our environment variables securely
