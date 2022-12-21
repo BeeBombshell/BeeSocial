@@ -6,10 +6,10 @@
 
 ### Node Packages used
 
-- 📦 Express - For running our server
-- 📦 Mongoose - For creating models and connecting to our MongoDB database
-- 📦 Dotenv - For storing our environment variables securely
-- 📦 Helmet - For making safe HTTP requests by adding new properties for the vulnerable ones in our HTTP headers
-- 📦 Morgan - For logging the HTTP requests
-- 📦 Nodemon - For restarting the server whenever we make changes to our code
-- 📦 Bcrypt - For hashing our passwords
+- 📦 `express` - For running our server
+- 📦 `mongoose` - For creating models and connecting to our MongoDB database
+- 📦 `dotenv` - For storing our environment variables securely
+- 📦 `helmet` - For making safe HTTP requests by adding new properties for the vulnerable ones in our HTTP headers
+- 📦 `morgan` - For logging the HTTP requests
+- 📦 `nodemon` - For restarting the server whenever we make changes to our code
+- 📦 `bcrypt` - For hashing our passwords
